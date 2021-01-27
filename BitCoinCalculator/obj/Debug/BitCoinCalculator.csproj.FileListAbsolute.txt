@@ -1,0 +1,13 @@
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\bin\Debug\BitCoinCalculator.exe.config
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\bin\Debug\BitCoinCalculator.exe
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\bin\Debug\BitCoinCalculator.pdb
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csprojAssemblyReference.cache
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.Form1.resources
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.Properties.Resources.resources
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csproj.GenerateResource.cache
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.exe
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.pdb
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\milan\Source\Repos\BitCoinCalculator\BitCoinCalculator\obj\Debug\BitCoinCalculator.csproj.CopyComplete
